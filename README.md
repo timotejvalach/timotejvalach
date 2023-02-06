@@ -12,7 +12,7 @@
 - 💻 Macbook Air 2020 M1 </br></br>
 ![Macbook](https://img.shields.io/badge/Apple-MacBook_Retina_2017?style=for-the-badge&logo=apple&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
