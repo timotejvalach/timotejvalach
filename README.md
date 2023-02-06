@@ -1,5 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
-<h1 align="center">Hi 👋, I'm Timtoej</h1>
+<h1 align="center">Hi 👋, I'm Timotejj</h1>
 <h3 align="center">FEI STU student</h3>
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5aba88b389c172458a37fbce/1522976419898-RK0CFZI9UWV0U1U30J6N/tumblr_inline_ouymw0EUF51sfw60b_500.gif?format=500w">
 
